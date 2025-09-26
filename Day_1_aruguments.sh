@@ -8,5 +8,3 @@ echo "How are you $2, Thanks for asking"
 
 
 
-echo "Enter the pin number"
-read "pin number"
